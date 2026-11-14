@@ -1,0 +1,8 @@
+{
+  "item.tornadomod.tornado_wand": "Tornado Wand",
+  "entity.tornadomod.tornado": "Tornado",
+  "gamerule.tornadoSpawns": "Natural tornado spawns",
+  "gamerule.tornadoSpawns.description": "Tornadoes can form on their own during thunderstorms in the Overworld",
+  "gamerule.tornadoDestruction": "Tornado block damage",
+  "gamerule.tornadoDestruction.description": "Tornadoes tear blocks out of the world and fling them around"
+}

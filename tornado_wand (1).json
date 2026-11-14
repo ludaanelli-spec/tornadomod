@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " F ",
+    " L ",
+    " S "
+  ],
+  "key": {
+    "F": { "item": "minecraft:feather" },
+    "L": { "item": "minecraft:lightning_rod" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "tornadomod:tornado_wand",
+    "count": 1
+  }
+}
